@@ -26,7 +26,10 @@ repositories {
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-data-mongodb')
     compile("org.springframework.boot:spring-boot-starter-web:1.5.10.RELEASE")
-
+	
+	
+	compile group: 'org.springframework.kafka', name: 'spring-kafka', version: '2.1.2.RELEASE'
+	
     compile group: 'io.swagger', name: 'swagger-core', version: '1.5.16'
     compile group: 'io.springfox', name: 'springfox-swagger2', version: '2.6.1'
     testCompile('org.springframework.boot:spring-boot-starter-test')
