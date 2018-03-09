@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMongoDb.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMongoDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMongoDb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMongoDb_main.iml" group="SpringMongoDb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMongoDb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMongoDb_test.iml" group="SpringMongoDb" />
+    </modules>
+  </component>
+</project>
